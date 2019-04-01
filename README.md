@@ -1,5 +1,5 @@
 # DozWPSecure v1.2
-A basic security plugin for WordPress 4.x, 5.0 or higher. You can selectively disabling unused features in WordPress core, and this plugin will help you to remove unnecessary information to be disclosed to attackers. You can find more details in User Manual.
+A basic security plugin for WordPress 4.x, 5.0 or higher. You can selectively disable unused features in WordPress core, and this plugin will help you to remove unnecessary information to be disclosed to attackers. You can find more details in the User Manual.
 
 
 Basic WP Security Hardening
