@@ -29,7 +29,7 @@ Custom Login URL
 Download: https://github.com/dozty/DozWPSecure/releases/download/v1.2/DozWPSecure_1.2.zip
 
 MD5 Checksum:
-c28a5edce009ab8fbc553fd2dbcf036b  DozWPSecure_1.2.zip
+6a04873fee7acfa5dc6a44a2b7193383  DozWPSecure_1.2.zip
 
 User Manual:
 https://www.dozty.net/dozwpsecure-user-manual/
