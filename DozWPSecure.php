@@ -9,9 +9,9 @@ Author URI: https://www.dozty.net
 Contributors: Dozty
 Donate link: https://www.dozty.net/contact/
 Requires at least: 4.4
-Tested up to: 5.1.1
-Stable tag: 1.2
-Version: 1.2
+Tested up to: 5.2
+Stable tag: 1.3
+Version: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 */
@@ -455,7 +455,7 @@ function DozWPSecure_check_login_url() {
 
 	if (preg_match("/(\/wp-login.php.*)/i", $current_url) && ($_COOKIE['DozWPSecure_valid_url']!=$url_hash)){
 		unset($_COOKIE['DozWPSecure_valid_url']);
-		setcookie('DozWPSecure_valid_url', '', time() - 3600, '/');
+		setcookie('DozWPSecure_valid_url', '', time() - 3600,'/','','',true);
 		header( 'Location: '.$dozblogurl.'/');
 	}else{
 		//force https login
