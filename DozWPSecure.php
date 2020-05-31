@@ -9,7 +9,7 @@ Author URI: https://www.dozty.net
 Contributors: Dozty
 Donate link: https://www.dozty.net/contact/
 Requires at least: 4.4
-Tested up to: 5.2
+Tested up to: 5.4.1
 Stable tag: 1.3
 Version: 1.3
 License: GPLv2 or later
